@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>garvanza.fm</groupId>
+  <artifactId>fm-util</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20151107044850</lastUpdated>
+  </versioning>
+</metadata>
