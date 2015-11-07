@@ -1,4 +1,4 @@
-# For Testing Purposes
+
 ## Maven
 ```xml
 <repositories>
