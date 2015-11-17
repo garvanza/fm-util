@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.github.garvanza.fm</groupId>
+  <artifactId>fm-util</artifactId>
+  <version>0.0.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20151117.214234</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20151117214234</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.2-20151117.214234-1</value>
+        <updated>20151117214234</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.2-20151117.214234-1</value>
+        <updated>20151117214234</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
