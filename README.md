@@ -13,7 +13,7 @@
 </repositories>
 <dependencies>
 	<dependency>
-		<groupId>garvanza</groupId>
+		<groupId>com.github.garvanza.fm</groupId>
 		<artifactId>fm-util</artifactId>
 		<version>0.0.2-SNAPSHOT</version>
 	</dependency>
