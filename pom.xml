@@ -10,6 +10,19 @@
 	<build>
 		<sourceDirectory>src</sourceDirectory>
 		<plugins>
+
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-jar-plugin</artifactId>
+				<configuration>
+					<archive>
+						<manifest>
+							<addClasspath>true</addClasspath>
+							<mainClass>garvanza.fm.util.Hell</mainClass>
+						</manifest>
+					</archive>
+				</configuration>
+			</plugin>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.3</version>
@@ -71,5 +84,5 @@
 		<snapshots> <enabled>true</enabled> <updatePolicy>daily</updatePolicy> </snapshots> 
 		</repository> </repositories> <dependencies> <dependency> <groupId>garvanza</groupId> 
 		<artifactId>maven-tests</artifactId> <version>0.0.3-SNAPSHOT</version> </dependency> 
-		</dependencies-->
+		</dependencies -->
 </project>
